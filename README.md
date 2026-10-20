@@ -20,7 +20,7 @@
 </p>
 
 
-![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.26216-b31b1b.svg)](https://arxiv.org/abs/2610.26216)
 
 </div>
 
@@ -77,7 +77,10 @@
 @misc{yue2026roarvae,
   title={RoAR-VAE: Improving Latent Diffusability through Robust Prediction},
   author={Yue, Yang and Wei, Fangyun and Wang, Yitong and Zhao, Jinjing and Zheng, Henry and Chen, Dong and Huang, Gao},
-  year={2026}
+  year={2026},
+  eprint={2610.26216},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2610.26216}
 }
 ```
 
